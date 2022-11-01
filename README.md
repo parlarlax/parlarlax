@@ -19,4 +19,11 @@ How to reach me :mailbox_with_no_mail:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parlarlax&hide=css,html&theme=github_dark&layout=compact)
 
 <!--START_SECTION:waka-->
+
+```text
+Go         11 mins         ██████████████████████▓░░   91.15 %
+Markdown   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
 <!--END_SECTION:waka-->
