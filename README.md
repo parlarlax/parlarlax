@@ -1,6 +1,6 @@
 <img align="right" width="235" src="https://github.com/arsmn/arsmn/blob/main/magician_gopher.png">
 
-# Hi, I'm Kraiwit Tongkul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> ![](https://komarev.com/ghpvc/?username=parlarlax&label=PROFILE+VIEWS)
+# Hi, I'm Kraiwit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> ![](https://komarev.com/ghpvc/?username=parlarlax&label=PROFILE+VIEWS)
 
 How to reach me :mailbox_with_no_mail:
 
