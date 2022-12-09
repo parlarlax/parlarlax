@@ -16,7 +16,7 @@ How to reach me :mailbox_with_no_mail:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parlarlax&theme=dark)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=parlarlax&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=GitHub%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parlarlax&hide=css,html&theme=github_dark&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parlarlax&hide=css,html&theme=github_dark&layout=compact) -->
 
 <!--START_SECTION:waka-->
 
