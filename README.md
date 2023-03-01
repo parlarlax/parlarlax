@@ -22,12 +22,12 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       38 hrs 21 mins  ██████████████████░░░░░░░   72.44 %
-Bash             3 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Go               2 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-JSON             2 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Docker           2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-SSH Config       51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+TypeScript       36 hrs 9 mins   █████████████████▓░░░░░░░   70.47 %
+Go               3 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Bash             3 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+JSON             2 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Docker           2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Other            1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
