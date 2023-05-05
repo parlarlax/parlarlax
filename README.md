@@ -25,6 +25,8 @@ How to reach me :mailbox_with_no_mail:
 Text           2 hrs 9 mins    ███████████░░░░░░░░░░░░░░   43.65 %
 Go             1 hr 51 mins    █████████▒░░░░░░░░░░░░░░░   37.55 %
 Other          36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+Docker         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+YAML           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
