@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                37 hrs 43 mins  █████████████████████▓░░░   86.36 %
-YAML              4 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-Protocol Buffer   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-SQL               13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-protobuf          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Go                37 hrs 43 mins  █████████████████████▒░░░   85.16 %
+YAML              5 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+Protocol Buffer   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+SQL               13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Bash              12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
