@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                22 hrs 40 mins  ███████████████▒░░░░░░░░░   61.93 %
-YAML              10 hrs 19 mins  ███████░░░░░░░░░░░░░░░░░░   28.21 %
-Makefile          1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Protocol Buffer   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-GitIgnore file    23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Go                19 hrs 51 mins  ████████████████▒░░░░░░░░   65.84 %
+YAML              7 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+Makefile          1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Docker            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+GitIgnore file    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
