@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                             5 hrs 46 mins   ████████████▒░░░░░░░░░░░░   49.43 %
-Java                                   1 hr 48 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-Makefile                               1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-TSQL                                   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Docker                                 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+JavaScript                             3 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   34.99 %
+Java                                   1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+Makefile                               1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+TSQL                                   36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Docker                                 24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
