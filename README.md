@@ -22,11 +22,10 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-INI              3 mins          ██████████░░░░░░░░░░░░░░░   40.48 %
-GitIgnore file   2 mins          ███████░░░░░░░░░░░░░░░░░░   27.59 %
-Java             1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-SQL              0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-Markdown         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+GitIgnore file   2 mins          █████████████░░░░░░░░░░░░   51.52 %
+Java             1 min           ██████░░░░░░░░░░░░░░░░░░░   23.82 %
+SQL              0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
+Markdown         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
 ```
 
 <!--END_SECTION:waka-->
