@@ -22,7 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                6 hrs 37 mins   ███████████████▒░░░░░░░░░   60.83 %
+JavaScript        1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+YAML              47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+Protocol Buffer   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+HTML              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
