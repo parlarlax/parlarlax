@@ -2,8 +2,7 @@
 <img align="right" width="235" src="assets/img/my_gopher.png">
 <!-- <a href="https://app.daily.dev/parlarlax"><img src="https://api.daily.dev/devcards/0eb94897526a4e26988609643a7b0393.png?r=ryn" width="400" alt="Kraiwit Tongkul's Dev Card"/></a> -->
 
-# Hi, I'm Kraiwit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> ![](https://komarev.com/ghpvc/?username=parlarlax&label=PROFILE+VIEWS)
-
+# Hi, I'm Kraiwit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> 
 How to reach me :mailbox_with_no_mail:
 
 [![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kraiwit-tongkul-545b0b64/)
