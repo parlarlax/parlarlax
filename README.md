@@ -22,10 +22,9 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 4 mins     ███████████████████░░░░░░   75.87 %
-JSON         12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-SSH Config   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JavaScript   1 hr 22 mins    █████████████████████▓░░░   86.54 %
+JSON         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
