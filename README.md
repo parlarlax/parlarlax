@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON              1 hr 1 min      █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
-Go                1 hr            █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
-Java Properties   44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
-YAML              27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-JavaScript        25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+JSON              1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+Go                1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+Java Properties   59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+YAML              30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+JavaScript        25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 ```
 
 <!--END_SECTION:waka-->
