@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash              43 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
-RobotFramework    41 mins         █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-Go                25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Other             25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-PkgConfig         21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+RobotFramework   41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.98 %
+Bash             25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
+PkgConfig        21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+Other            21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Go               19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
 ```
 
 <!--END_SECTION:waka-->
