@@ -22,9 +22,7 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   0 secs          ████████████░░░░░░░░░░░░░   47.81 %
-Other        0 secs          ████████████░░░░░░░░░░░░░   47.51 %
-Bash         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
