@@ -22,7 +22,8 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Makefile   0 secs          ██████████████▒░░░░░░░░░░   56.74 %
+Bash       0 secs          ██████████▓░░░░░░░░░░░░░░   43.26 %
 ```
 
 <!--END_SECTION:waka-->
