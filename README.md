@@ -22,9 +22,7 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                4 mins          ███████████████████████▓░   94.13 %
-Protocol Buffer   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Bash              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Go   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
