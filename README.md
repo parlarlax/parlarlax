@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Go             15 hrs 27 mins  ███████████████████▒░░░░░   76.94 %
-Docker         2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-YAML           1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-Dockerfile     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Text           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Go             15 hrs 51 mins  ████████████████▒░░░░░░░░   65.84 %
+YAML           3 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+Docker         3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Makefile       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Dockerfile     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
