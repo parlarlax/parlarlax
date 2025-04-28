@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte                11 hrs 47 mins  ██████████████░░░░░░░░░░░   56.09 %
-Markdown              2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-Python                1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-YAML                  50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-HTTP Request          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Svelte                14 hrs 46 mins  █████████████████▒░░░░░░░   69.69 %
+Python                1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+HTTP Request          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+YAML                  47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+JSON                  42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
