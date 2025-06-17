@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte                     30 hrs 27 mins  ██████████████████░░░░░░░   72.22 %
-YAML                       3 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Docker                     1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-TypeScript                 1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-SQL                        1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Svelte         31 hrs 48 mins  ████████████████████░░░░░   79.37 %
+YAML           3 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+SQL            58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Bash           50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+TypeScript     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
