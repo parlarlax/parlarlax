@@ -22,11 +22,7 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   24 mins         █████████▓░░░░░░░░░░░░░░░   39.10 %
-YAML         21 mins         ████████▒░░░░░░░░░░░░░░░░   33.50 %
-Bash         14 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
