@@ -22,8 +22,7 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   16 mins         ████████████████▓░░░░░░░░   66.14 %
-JSON    8 mins          ████████▒░░░░░░░░░░░░░░░░   33.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
