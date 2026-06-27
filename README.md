@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          8 hrs 6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-Go                6 hrs 41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
-Other             4 hrs 53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-TypeScript        3 hrs 55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-YAML              2 hrs 44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Markdown          6 hrs 45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+Go                6 hrs 40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
+Other             4 hrs 17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+TypeScript        3 hrs 16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+YAML              2 hrs 25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
 ```
 
 <!--END_SECTION:waka-->
