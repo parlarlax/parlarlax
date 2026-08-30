@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Other             17 hrs 48 mins        ██████████████████▓░░░░░░   74.25 %
-Markdown          4 hrs                 ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-Bash              45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-JSON              37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Protocol Buffer   18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Other             17 hrs 3 mins         ██████████████████▒░░░░░░   73.78 %
+Markdown          3 hrs 53 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+Bash              45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+JSON              37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Protocol Buffer   18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
