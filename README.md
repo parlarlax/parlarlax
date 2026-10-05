@@ -22,11 +22,11 @@ How to reach me :mailbox_with_no_mail:
 <!--START_SECTION:waka-->
 
 ```txt
-Other             19 hrs 14 mins        █████████▓░░░░░░░░░░░░░░░   38.90 %
-Markdown          17 hrs 15 mins        ████████▓░░░░░░░░░░░░░░░░   34.89 %
-Go                3 hrs 30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-JavaScript        2 hrs 34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Bash              2 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Markdown          19 hrs 42 mins        ███████████░░░░░░░░░░░░░░   43.61 %
+Other             10 hrs 43 mins        ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+JavaScript        4 hrs 24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Go                4 hrs 21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Bash              2 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
